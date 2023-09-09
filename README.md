@@ -12,7 +12,7 @@ Introducing **Biblia Bora**, the ultimate Bible app that offers more than just t
 </p>
 
 
-###Screenshots
+### Screenshots
 <p align="center">
 	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/1.png" width="140px"/>
 	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/2.png" width="140px"/>
