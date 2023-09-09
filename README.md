@@ -9,6 +9,8 @@ Introducing **Biblia Bora**, the ultimate Bible app that offers more than just t
 
 [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download.png)](https://github.com/prayzjomba/bibliabora/releases)
 
+[![image](https://img.youtube.com/vi/xatf1V2Yobo/0.jpg)](https://www.youtube.com/watch?v=xatf1V2Yobo)
+
 ### Screenshots
 <p align="center">
 	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/1.png" width="140px"/>
