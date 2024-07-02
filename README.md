@@ -10,7 +10,7 @@ Introducing **Biblia Bora**, the ultimate Bible app that offers more than just t
 [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.0/BibliaBora_v2.0.0.apk)
 
 ### Demo Video
-[![image](https://img.youtube.com/vi/xatf1V2Yobo/mqdefault.jpg)](https://youtu.be/Y9-4aobo9ho)
+[![image](https://img.youtube.com/vi/xatf1V2Yobo/mqdefault.jpg)](https://www.youtube.com/watch?v=Y9-4aobo9ho)
 
 ### Screenshots
 <p align="center">
