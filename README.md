@@ -16,12 +16,12 @@ Introducing **Biblia Bora**, the ultimate Bible app that offers more than just t
 
 ### Screenshots
 <p align="center">
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/1.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/2.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/3.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/4.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/5.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/6.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/7.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/8.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/1.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/2.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/3.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/4.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/5.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/6.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/7.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/8.png" width="140px"/>
 </p>
