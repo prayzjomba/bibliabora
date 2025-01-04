@@ -9,19 +9,17 @@ Introducing **Biblia Bora**, the ultimate Bible app that offers more than just t
 
 [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1.apk)
 
-### Short Video
-[![image](https://img.youtube.com/vi/oKyG6YAMGNo/mqdefault.jpg)](https://www.youtube.com/shorts/oKyG6YAMGNo)
 ### Demo Video
-[![image](https://img.youtube.com/vi/xatf1V2Yobo/mqdefault.jpg)](https://www.youtube.com/watch?v=Y9-4aobo9ho)
+[![image](https://img.youtube.com/vi/oKyG6YAMGNo/mqdefault.jpg)](https://www.youtube.com/shorts/oKyG6YAMGNo)
 
 ### Screenshots
 <p align="center">
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/1.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/2.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/3.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/4.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/5.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/6.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/7.png" width="140px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/8.png" width="140px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/1.png" width="180px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/2.png" width="180px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/3.png" width="180px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/4.png" width="180px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/5.png" width="180px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/6.png" width="180px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/7.png" width="180px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/8.png" width="180px"/>
 </p>
