@@ -9,6 +9,10 @@ Introducing **Biblia Bora**, the ultimate Bible app that offers more than just t
 
 [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1.apk)
 
+
+This APK contains all **200+** languages offline; you don't need data to access any language.
+[![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1-offline.apk)
+
 ### Demo Video
 [![image](https://img.youtube.com/vi/oKyG6YAMGNo/mqdefault.jpg)](https://www.youtube.com/shorts/oKyG6YAMGNo)
 
