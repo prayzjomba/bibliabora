@@ -5,17 +5,17 @@
 
 The best bible app with a user-friendly interface,with more than 300 languages, offline mode, no ads, and it is completely **FREE**
 
-**v2.0.2
+**v2.0.2**
 <p align="center">
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.2/screenshots/v202-1.png" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.2/screenshots/v202-2.png" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.2/screenshots/v202-2.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-1.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-2.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-2.png" width="250px"/>
 </p>
 [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/d1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2.apk)
 [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/d2.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-offline.apk)
 
 
-**v2.0.1
+**v2.0.1**
 [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1.apk)
 
 
