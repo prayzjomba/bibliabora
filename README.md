@@ -19,7 +19,7 @@ The best bible app with a user-friendly interface,with more than 300 languages, 
 
 #### With the second button, you can access over 300 languages offline without data.
 
-<!-- ## v2.0.1 -->
+## v2.0.1
 ### Demo Video
 [![yt](https://img.youtube.com/vi/oKyG6YAMGNo/mqdefault.jpg)](https://www.youtube.com/shorts/oKyG6YAMGNo)
 
