@@ -15,7 +15,7 @@ The best bible app with a user-friendly interface,with more than 300 languages, 
 </p>
 
 [![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-002.apk)
-[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-002-offline.apk)
+[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d2.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-002-offline.apk)
 
 #### With the second button, you can access over 300 languages offline without data.
 
