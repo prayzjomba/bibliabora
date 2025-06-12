@@ -5,7 +5,7 @@
 
 The best bible app with a user-friendly interface,with more than 300 languages, offline mode, no ads, and it is completely **FREE**
 
-## v2.0.2 (BETA)        ---    (updated on June 5, 2025
+## v2.0.2-002 (BETA)        ---    (updated on June 12, 2025)
 ### Added new features, Improved performance, Fixed Bugs.   
 
 <p align="center">
