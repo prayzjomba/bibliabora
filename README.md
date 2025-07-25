@@ -5,17 +5,23 @@
 
 The best bible app with a user-friendly interface,with more than 300 languages, offline mode, no ads, and it is completely **FREE**
 
-## v2.0.2-002 (BETA)        ---    (updated on June 12, 2025)
-### Added new features, Improved performance, Fixed Bugs.   
+## v2.0.2-003 (BETA)        ---    (updated on July 25, 2025)
+<!-- ### Improved performance, Fixed Bugs. Added new features, Notes, Compare, Backup & Restore and more.. -->
+### Improved performance and fixed bugs. added Notes, Compare, Backup & Restore, and other new features are now available.
+
+<p align="center">
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-4.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-5.png" width="250px"/>
+</p>
+
+[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-003.apk)
+[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d2.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-003-offline.apk)
 
 <p align="center">
 	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-1.png" width="250px"/>
 	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-2.png" width="250px"/>
 	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v202-3.png" width="250px"/>
 </p>
-
-[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-002.apk)
-[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d2.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.2/BibliaBora_v2.0.2-002-offline.apk)
 
 #### With the second button, you can access over 300 languages offline without data.
 
@@ -24,9 +30,8 @@ The best bible app with a user-friendly interface,with more than 300 languages, 
 [![yt](https://img.youtube.com/vi/oKyG6YAMGNo/mqdefault.jpg)](https://www.youtube.com/shorts/oKyG6YAMGNo)
 
 
-[![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1.apk)
-[![name2](https://github.com/prayzjomba/bibliabora/blob/main/logo/download1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1-offline.apk)
-
+<!-- [![name](https://github.com/prayzjomba/bibliabora/blob/main/logo/download.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1.apk) -->
+<!-- [![name2](https://github.com/prayzjomba/bibliabora/blob/main/logo/download1.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.1/BibliaBora_v2.0.1-offline.apk) -->
 
 ### Screenshots
 <p align="center">
