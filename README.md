@@ -37,12 +37,12 @@ The best bible app with a user-friendly interface,with more than 300 languages, 
 
 ### Screenshots
 <p align="center">
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/1.jpg" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/2.jpg" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/3.jpg" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/4.jpg" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/5.jpg" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/6.jpg" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/7.jpg" width="250px"/>
-	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/8.jpg" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/1.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/2.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/3.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/4.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/5.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/6.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/7.png" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/v2.0.1/screenshots/8.png" width="250px"/>
 </p>
