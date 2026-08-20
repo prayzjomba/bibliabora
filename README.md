@@ -5,6 +5,29 @@
 
 The best bible app with a user-friendly interface,with more than 500 languages, offline access, no ads, and it is completely **FREE**
 
+## v2.0.4 (BETA)        ---    (updated on August 20, 2026)
+### Fixed bugs, new UI, new features, background worship music, questions + answers and more..
+The best bible app with a user-friendly interface,with more than 500 languages, offline access, no ads, and it is completely **FREE**
+
+<p align="center">
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v204-1.jpg" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v204-2.jpg" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v204-3.jpg" width="250px"/>
+</p>
+
+[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d1-v204.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.4/BibliaBora_v2.0.4.apk)
+[![image1](https://github.com/prayzjomba/bibliabora/blob/main/logo/d2-v204.png)](https://github.com/prayzjomba/bibliabora/releases/download/v2.0.4/BibliaBora_v2.0.4-offline.apk)
+
+<p align="center">
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v204-4.jpg" width="250px"/>
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v204-5.jpg" width="250px"/>
+</p>
+
+<p align="center">
+	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v204-6.jpg" height="300px"/>
+</p>
+
+
 ## v2.0.3 (BETA)        ---    (updated on January 31, 2026)
 <!-- ### Improved performance, Fixed Bugs. Added new features, Notes, Compare, Backup & Restore and more.. -->
 <!-- ### Improved performance and fixed bugs. added Notes, Compare, Backup & Restore, and other new features are now available. -->
