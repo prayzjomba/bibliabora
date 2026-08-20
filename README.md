@@ -6,8 +6,8 @@
 The best bible app with a user-friendly interface,with more than 500 languages, offline access, no ads, and it is completely **FREE**
 
 ## v2.0.4 (BETA)        ---    (updated on August 20, 2026)
-### Fixed bugs, new UI, new features, background worship music, questions + answers and more..
-The best bible app with a user-friendly interface,with more than 500 languages, offline access, no ads, and it is completely **FREE**
+### Fixed bugs, new UI, new features,more than 300 background worship music, 2000 questions + answers and more..
+**Not working** verse highlightight,multi-copy, notes with tags, and treasure.
 
 <p align="center">
 	<img src="https://github.com/prayzjomba/bibliabora/blob/main/screenshots/v204-1.jpg" width="250px"/>
